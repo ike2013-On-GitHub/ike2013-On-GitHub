@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ike2013-On-GitHub
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m collaborating with snemir03 in Unity
-- 📫 How to reach me: Scratch (my username's ike2013)
+- 📫 How to reach me: Discord: ike2013. (with the period)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm working on a game called ScratchTok Ultimate on scratch (please advertise it when it comes out)
+- ⚡ Fun fact: You're adopted 
 
 <!---
 ike2013-On-GitHub/ike2013-On-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
