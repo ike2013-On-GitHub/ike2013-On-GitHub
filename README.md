@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ike2013-On-GitHub
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Ruby
-- 💞️ I’m collaborating with snemir03 in Unity
+- 💞️ I’m collaborating with no one at the moment.
 - 📫 How to reach me: Discord: ike2013. (with the period)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You're adopted 
